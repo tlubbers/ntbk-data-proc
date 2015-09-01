@@ -68,6 +68,12 @@ The following image shows examples of all three of these relationship degrees.
 ![Relationship Degree Example](./img/m3.deg.relation.png)
 
 
+# ERD (Crows Feet) Cheat Sheet
+
+Diagram to help build ERD.
+
+![ERD Cheat Sheet](./img/m3.erdcheatsheet.png)
+
 
 
 
