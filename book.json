@@ -1,1 +1,2 @@
-{ "title": "Database Processing" }
+{ "title": "Database Processing",
+	"plugins": ["katex"] }
