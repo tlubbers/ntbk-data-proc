@@ -7,5 +7,5 @@
 * [Module 4](module_4_it378.md)
 * [Module 5](module_5_it378.md)
 * [Module 6](module_6_it378.md)
-* [Module 7](module_6_it378.md)
-* [Module 8](module_6_it378.md)
+* [Module 7](module_7_it378.md)
+* [Module 8](module_8_it378.md)
