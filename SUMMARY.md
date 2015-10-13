@@ -6,6 +6,6 @@
 * [Entity Modeling](3_entity_model.md)
 * [ERD Conversion](4_erd_conversion.md)
 * [Normalization](5_normalization.md)
-* [SQL](6_sql.md)
+* [Table Design](6_table_design.md)
 * [Mod 7](7.md)
 * [Mod 8](8.md)
