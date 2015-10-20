@@ -7,5 +7,5 @@
 * [ERD Conversion](4_erd_conversion.md)
 * [Normalization](5_normalization.md)
 * [Table Design](6_table_design.md)
-* [Mod 7](7.md)
-* [Mod 8](8.md)
+* [Practice Problems](X_practice_problems.md)
+* [SQL Syntax](7_sql.md)
